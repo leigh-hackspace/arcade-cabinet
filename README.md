@@ -30,20 +30,20 @@ You need to print the bumpers for the case, and one Pi mount.
 
 ## Electronics
 
-Cooler Master GA241 23.8" VA Monitor
-Raspberry Pi 4
-Picade X HAT
-Picase Wiring Loom
-Phreak Mods Link EX Groove Quick Release 
-Sanwa JLF-TP-8YT Arcade Joystick 
-Sanwa OBSN-30 Screw In Japanese Arcade Button 
-16mm Metal Illuminated Button
-A 5V/3A Buck Converter with USB outs
-2.1mm sockets and right angle plugs
-3W speaker
-Panel mount power switch rated for 4A.
-Flat HDMI ribbon cable and adapters (down angled and flat)
-4010 5V USB fan for the Pi
+ * Cooler Master GA241 23.8" VA Monitor
+ * Raspberry Pi 4
+ * Picade X HAT
+ * Picase Wiring Loom
+ * Phreak Mods Link EX Groove Quick Release 
+ * Sanwa JLF-TP-8YT Arcade Joystick 
+ * Sanwa OBSN-30 Screw In Japanese Arcade Button 
+ * 16mm Metal Illuminated Button
+ * A 5V/3A Buck Converter with USB outs
+ * 2.1mm sockets and right angle plugs
+ * 3W speaker
+ * Panel mount power switch rated for 4A.
+ * Flat HDMI ribbon cable and adapters (down angled and flat)
+ * 4010 5V USB fan for the Pi
 
 Attach a 2.1mm socket to the case, and wire the +ve to the switch.  Then wire the switch to
 the buck converter and a spur to the monitor in the upper case.  Connect all grounds back to 
